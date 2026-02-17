@@ -3,7 +3,7 @@ title: NerdWyrm Nature Journal
 description: A digital notebook of outdoor observations and adventures.
 url: https://nerdwyrm.com
 baseurl: ""
-theme: minima
+theme: midnight
 
 # Show pages in the header navigation
 header_pages:
