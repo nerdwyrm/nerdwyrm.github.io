@@ -1,0 +1,19 @@
+
+// Custom tweaks for the journal
+$brand-color: #1b5e20; // deep green accent
+
+// Override link color
+a { color: #1b5e20; }
+
+// Post content readability
+.post-content {
+  line-height: 1.75;
+}
+
+// Simple caption style
+.caption {
+  color: #666;
+  font-size: 0.9rem;
+  text-align: center;
+  margin-top: -0.5rem;
+}
