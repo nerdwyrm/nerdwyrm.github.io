@@ -1,27 +1,16 @@
 
-title: The Nerdwyrm Nature Journal
+title: NerdWyrm Nature Journal
 description: A digital notebook of outdoor observations and adventures.
 url: https://nerdwyrm.com
 baseurl: ""
-theme: midnight
 
-# Show pages in the header navigation
-header_pages:
-  - about.md
-
-# Social (optional)
-author: Luke Baker
-  name: Nerdwyrm
+# Switch to Midnight theme (GitHub Pages supported)
+theme: jekyll-theme-midnight
 
 # Plugins supported by GitHub Pages
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-
-# Minima theme config tweaks
-midnight:
-  skin: auto  # respects light/dark mode
-  social_links: []
 
 # Permalinks for posts
 permalink: /:categories/:year/:month/:day/:title/

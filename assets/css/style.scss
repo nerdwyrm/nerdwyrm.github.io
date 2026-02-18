@@ -1,6 +1,9 @@
+
 ---
 ---
-// Import Minima's base styles first
-@import "midnight";
-// Then our custom overrides
-@import "custom";
+@import "{{ site.theme }}"; // load Midnight theme styles
+
+/* Optional: small readability tweaks for post lists */
+.posts { list-style: none; padding-left: 0; }
+.posts li { margin: 0.35rem 0; }
+.post-date { color: #9aa0a6; }
