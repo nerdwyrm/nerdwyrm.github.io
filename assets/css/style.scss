@@ -6,3 +6,9 @@
 .posts { list-style: none; padding-left: 0; }
 .posts li { margin: 0.35rem 0; }
 .post-date { color: #9aa0a6; }
+
+/* Hide the big "View on GitHub" header button in Midnight */
+.page-header .btn { display: none; }
+/* Optional: slim the header’s vertical padding a bit */
+.page-header { padding: 1.25rem 0; }
+
