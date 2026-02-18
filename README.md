@@ -1,5 +1,5 @@
 
-# NerdWyrm Nature Journal (Jekyll on GitHub Pages)
+# NerdWyrm Nature Journal (Jekyll on GitHub Pages).
 
 A lightweight, zero-maintenance blog for field notes. Built with the `midnight` theme and GitHub Pages–supported plugins.
 
