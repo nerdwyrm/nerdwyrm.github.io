@@ -1,5 +1,5 @@
 
-title: NerdWyrm Nature Journal
+title: The Nerdwyrm Nature Journal
 description: A digital notebook of outdoor observations and adventures.
 url: https://nerdwyrm.com
 baseurl: ""
@@ -10,8 +10,8 @@ header_pages:
   - about.md
 
 # Social (optional)
-author:
-  name: NerdWyrm
+author: Luke Baker
+  name: Nerdwyrm
 
 # Plugins supported by GitHub Pages
 plugins:
@@ -19,7 +19,7 @@ plugins:
   - jekyll-sitemap
 
 # Minima theme config tweaks
-minima:
+midnight:
   skin: auto  # respects light/dark mode
   social_links: []
 
