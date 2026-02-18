@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NerdWyrm Nature Journal
+title: The Nerdwyrm Nature Journal
 ---
 
 <h1>{{ site.title }}</h1>
