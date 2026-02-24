@@ -8,7 +8,7 @@ title: The Nerdwyrm Nature Journal
 
 <h2>Latest Journal Entries</h2>
 <ul class="posts">
-{%- for post in site.posts limit: 15 -%}
+{%- for post in site.posts limit: 30 -%}
   <li>
     <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
     &mdash; <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
