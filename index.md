@@ -3,8 +3,8 @@ layout: default
 title: The Nerdwyrm Nature Journal
 ---
 
-<h1>"Index of Recent Entries"</h1>
-<p><em>"Click the links to read each entry, sorted by date."</em></p>
+<h1>Index of Recent Entries</h1>
+<p><em>Click the links below to read each entry, sorted by date.</em></p>
 
 <h2>Latest Journal Entries</h2>
 <ul class="posts">
